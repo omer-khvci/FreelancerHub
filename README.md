@@ -1,4 +1,3 @@
-# FreelancerHub
 # 🚀 FreelancerHub
 
 FreelancerHub, freelance çalışanlar ile işverenleri bir araya getiren ve proje teklif süreçlerini yöneten bir açık kaynak .NET Core Web API uygulamasıdır.
